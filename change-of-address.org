@@ -1,0 +1,102 @@
+#+STARTUP: indent
+
+* Moving TODOs by category
+Most items would require credit card payments thus need update anyway, but usually profile address and billing address are separate
+** TODO Essentials [0/7]
+- [ ] Moving company
+ booking in advance, say two weeks including asking for quotes
+- [ ] Utilities and internet services
+ stop service at old address and submit applications for new
+ ID verification may be required
+ after move, say in two weeks, verify accounts at old address are properly closed without balance due
+- [ ] USPS
+ one week before moving day
+- [ ] Locksmith
+ on moving day
+- [ ] AR-11
+ within the week of moving
+- [ ] Notification of Employers/HR/Law firms
+ same as above
+- [ ] ID and driver's license
+ after received two or more utility bills and/or bank/CC statements
+** TODO Banks [/]
+- [ ] BoA
+** TODO Credit cards, store cards [/]
+- [ ] BoA
+- [ ] AmEx
+*** TODO Rewards cards/points
+- [ ] Walgreens
+- [ ] Staples
+** TODO Credit monitoring and identity protection services [/]
+** TODO Charity donations [/]
+it is a good idea to use Paypal or a service account to pay out donations, but address to receive soliciting mails will need updates
+** TODO Doctors, pediatrics and dentists [/]
+*** TODO Phamacy [/]
+- [ ] Walgreens
+** TODO Electric, gas, water, and waste [/]
+- [ ] ComEd
+- [ ] PeoplesGas
+- [ ] Water
+- [ ] Waste/Gabage collection
+** TODO Education programs and related [/]
+- [ ] WES
+- [ ] Applications
+- [ ] Student portal
+** TODO Flyer's programs, hotel reward programs, diners club [/]
+- [ ] Priority Pass
+- [ ] Starwood
+** TODO GIS based services [/]
+- [ ] SpotCrime
+- [ ] CTA bus alerts
+- [ ] Street cleaning alerts
+- [ ] Meetups
+- [ ] Everyblock/Nextdoor
+** TODO Home security [/]
+** TODO Insurance [/]
+sometimes updated by the employer
+- [ ] Medical insurance
+- [ ] Life insurance
+** TODO Internet and cable service providers [/]
+- [ ] AT&T
+** TODO Investment accounts [/]
+sometimes updated by the employer
+- [ ] 401(k) and IRA
+** TODO Library [/]
+** TODO Loans and mortgages [/]
+- [ ] County treasurer (Property tax bill address)
+** TODO Memberships, academic groups [/]
+- [ ] fitness
+- [ ] Costco
+- [ ] B&N
+- [ ] ACM
+- [ ] IEEE
+*** Local Societies [/]
+** TODO Newspaper, magazines, and subscriptions [/]
+Tools like Amazon subscription manager can help tracking and updating all subscriptions easily. No need to worry about outdated subscriptions.
+** TODO Online identity/profiles [/]
+- [ ] Google
+- [ ] Facebook
+- [ ] LinkedIn
+*** TODO Domain registration (WHOIS) [/]
+** TODO Online shopping and payments [/]
+- [ ] Amzn
+- [ ] PayPal
+- [ ] Google
+** TODO Package tracking [/]
+- [ ] UPS
+** TODO Telephone services [/]
+- [ ] T-Mobile
+- [ ] Verizon
+** TODO Transit programs [/]
+sometimes updated by the employer
+*** TODO auto rental [/]
+** TODO Vehicle registration and related [/]
+- [ ] Registration
+- [ ] Parking permit
+- [ ] iPass
+- [ ] Vehicle insurance
+- [ ] Auto loan
+*** TODO GPS and electrical navigation systems [/]
+- [ ] Google Maps
+- [ ] Apple ID
+- [ ] vehicle navigation systems
